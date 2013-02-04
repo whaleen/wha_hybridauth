@@ -1,6 +1,6 @@
 <?php
 
-# $plugin['name'] = 'wha_hybridauth';
+# $plugin['name'] = 'txp_hybridauth';
 
 $plugin['version'] = '0.1';
 $plugin['author'] = '';
